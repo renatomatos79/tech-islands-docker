@@ -38,6 +38,3 @@ https://github.com/renatomatos79/playground/tree/master/lesson-008
 1. In vs/CoreDockerApi folder you will find the whole application used to build your PlayGround: <br>
 https://github.com/renatomatos79/playground/tree/master/vs/CoreDockerApi
 
-Regards, <br>
-Renato Matos <br>
-renato.matos79@gmail.com
