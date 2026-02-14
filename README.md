@@ -1,3 +1,6 @@
+<img width="473" height="264" alt="image" src="https://github.com/user-attachments/assets/846dabf6-b39e-47c6-bebc-d19f366a32b3" />
+
+
 # Hello Dockers and C# Developers
 The samples into this repository were created to help you to start to build your apps using Containers
 
