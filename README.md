@@ -1,40 +1,31 @@
-<img width="473" height="264" alt="image" src="https://github.com/user-attachments/assets/846dabf6-b39e-47c6-bebc-d19f366a32b3" />
-
+![Tech Islands Docker](https://github.com/user-attachments/assets/846dabf6-b39e-47c6-bebc-d19f366a32b3)
 
 # Hello Dockers and C# Developers
-The samples into this repository were created to help you to start to build your apps using Containers
 
-In the video below, you will find a fast project overview: <br>
-https://www.youtube.com/watch?v=UTdnbA0Flqs
+This repository contains hands-on lessons to help you build applications using containers.
 
-Link to use Docker Playground: <br>
-https://labs.play-with-docker.com/
+## Quick Links
 
-Let me index this Repo
-1. The lesson-001 folder contains the basic docker commands to help you to start using docker images and containers commands: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-001
+- Project overview video: <https://www.youtube.com/watch?v=UTdnbA0Flqs>
+- Docker Playground: <https://labs.play-with-docker.com/>
 
-1. The lesson-002 folder will give you a hand to build and create your first images and use them to start your containers: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-002
+## Repository Index
 
-1. In the lesson-003 folder you will find a code to create your first .net core API and host it into the Docker container: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-003
-
-1. In the lesson-004 folder we are gonna learn how to deploy our images into the Docker Hub and use them over the docker instances: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-004
-
-1. In the lesson-005 folder let's play with Redis creating, updating, getting and expiring items from the cache: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-005
-
-1. In the lesson-006 folder let's refactor our Api and prepare it to support the redis cache: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-006
-
-1. In the lesson-007 folder, we are gonna replace many docker files commands with the single Docker Compose and create a strong dependency between our services: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-007
-
-1. In the lesson-008 folder, we are gonna build our cluster using Docker Swarm with three nodes and run our services in order to verify the high availability of our API: <br>
-https://github.com/renatomatos79/playground/tree/master/lesson-008
-
-1. In vs/CoreDockerApi folder you will find the whole application used to build your PlayGround: <br>
-https://github.com/renatomatos79/playground/tree/master/vs/CoreDockerApi
-
+1. `lesson-001`: Basic Docker commands for images and containers.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-001>
+2. `lesson-002`: Build your first image and run your first custom containers.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-002>
+3. `lesson-003`: Create your first .NET Core API and host it in Docker.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-003>
+4. `lesson-004`: Push images to Docker Hub and pull/run them remotely.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-004>
+5. `lesson-005`: Work with Redis cache (create, update, read, expire).  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-005>
+6. `lesson-006`: Refactor the API to support Redis cache.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-006>
+7. `lesson-007`: Use Docker Compose to orchestrate API + Redis services.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-007>
+8. `lesson-008`: Build a Docker Swarm cluster and validate high availability.  
+   <https://github.com/renatomatos79/playground/tree/master/lesson-008>
+9. `vs/CoreDockerApi`: Base application used across the lessons.  
+   <https://github.com/renatomatos79/playground/tree/master/vs/CoreDockerApi>
